@@ -1,0 +1,1 @@
+This Dagimes firs git hub file(that is kind of a lie I have been working as a front end devloper for a year and half now and I'm here to understand more and make myself better)
